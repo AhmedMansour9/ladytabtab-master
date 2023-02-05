@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    unused_local_variable: ignore
+linter:
+  rules:
+    use_key_in_widget_constructors: true
+    avoid_print: false
+    empty_catches: false
+    require_trailing_commas: true

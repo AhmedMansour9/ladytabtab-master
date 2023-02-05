@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">LadyTabtab</string>
+  <string name="facebook_app_id">167872822184105</string>
+  <string name="fb_login_protocol_scheme">fb167872822184105</string>
+  <string name="facebook_client_token">427414bf768a6aaf151d1a00ec9f0150</string>
+</resources>

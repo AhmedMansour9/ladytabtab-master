@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "449557740695",
+    "firebase_url": "https://ladytabtab-f376c-default-rtdb.firebaseio.com",
+    "project_id": "ladytabtab-f376c",
+    "storage_bucket": "ladytabtab-f376c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449557740695:android:c3d547e91a74826c1fbdd2",
+        "android_client_info": {
+          "package_name": "ladytabtab.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449557740695-kmhl175fc27li19ot82qq4ofbovj26fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ladytabtab.app",
+            "certificate_hash": "a64d892632146df722cbf88bfe1b3b39e1279870"
+          }
+        },
+        {
+          "client_id": "449557740695-mgj1qid7o9it3q78dt14gmvp8fa9trcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ladytabtab.app",
+            "certificate_hash": "e9c94219519a7ee1cee3fb9b6204a4e2f95eca85"
+          }
+        },
+        {
+          "client_id": "449557740695-seje36g70lnos7f7rpcr01m6d5o5pbhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ladytabtab.app",
+            "certificate_hash": "92cdd439d6489b6043d0754edcda47e6636fa599"
+          }
+        },
+        {
+          "client_id": "449557740695-lcv7n2hemmdhbq2vqocusl00328p2mbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCip2iu9I3ByUgsR80a6EmNapc97dtY4B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449557740695-lcv7n2hemmdhbq2vqocusl00328p2mbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449557740695-9avtn3t217l0o74v6vqui1ds6ptr3l2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ladytabtab.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
